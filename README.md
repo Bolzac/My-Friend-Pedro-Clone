@@ -16,4 +16,4 @@ Features
 Missing Features
 - Player's character doesn't have any gun. Because of that you can not point your gun where you shoot.
 - There is no player design. It is just sketch (but have all animations).
-- There is just one level, I just want to code core mechanics of game.
+- There is just one level, I just wanted to code core mechanics of game.
