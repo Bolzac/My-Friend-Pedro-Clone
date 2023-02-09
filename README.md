@@ -1,4 +1,4 @@
-##About Project
+## About Project
 
 It's a 2D platform game where you jump to move and shoot enemies before they shoot you. There are levels to reach the end of game. In each level you born in a start point
 and player has to go end of the level.
